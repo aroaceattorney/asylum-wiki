@@ -69,7 +69,7 @@ IRPA第96条中对于公约难民的定义：
 
 一个寻求庇护者可以通过入境加拿大，或在入境口岸提出庇护声请的方式留在加拿大，直至政府关于该寻求庇护者的难民声请做出决定；
 加拿大目前有两种难民认定机制，一个是通过移民与难民委员会（Immigration and Refugee Board,以下简称IRB）审理，一个是遣返前风险评估(Pre-Removal Risk Assessment，以下简称PRRA）。
-IRB是一个独立于行政机构的**行政仲裁处(administrative tribunal** PRRA则由加拿大移民难民和公民部 (Immigration, Refugees and Citizenship Canada) (IRCC) ，一个政府机构进行。
+IRB是一个独立于行政机构的**行政仲裁处(administrative tribunal**） PRRA则由加拿大移民难民和公民部 (Immigration, Refugees and Citizenship Canada) (IRCC) ，一个政府机构进行。
 
 当一宗难民声请被提出，首先IRCC或者加拿大边境服务局（Canada Border Service Agency) (CBSA) 将会就该声请是否有IRPA第101条中规定的不合资格的情形做出决定。
 如果该寻求庇护者是在入境后提出声请的，那么将会由IRCC做出决定，不是入境后提出声请的则CBSA将会做出决定。
