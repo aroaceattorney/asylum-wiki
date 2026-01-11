@@ -9,7 +9,6 @@ hero:
 
 # 加拿大
 
-
 [[toc]]
 
 > [!CAUTION]
@@ -17,11 +16,12 @@ hero:
 > 
 > STCA规定难民申请人必须在到达的第一个安全国家申请庇护，除非该申请人符合规例中的例外情形，也就是说：
 > 寻求庇护者如果**先**入境美国**随后由陆路边境/铁路口岸/水道的任何一个地方**入境加拿大，那么该寻求庇护者**必须**要在美国提出申请，反之亦然，除非该人：
+> 
 > * 在加拿大有是加拿大公民/永久居民/临时居民/难民申请人（且那个申请人的申请并未被拒绝/撤回/废弃/被IRCC裁定为不合资格转介至IRB）的亲属；
 > * 在18岁以下**且**未有亲属陪同入境，**且**在加拿大/美国没有亲属；
 > * 持有有效的加拿大签发的签证，或能够免签入境加拿大**且**入境美国需要签证；**或者**
 > * 在美国被指控或定罪了一个在美国可获死刑的罪名。
->
+> 
 > 如果一个寻求庇护者的申请并没有在ta到达的第一个安全国(i.e. 美国/加拿大）提出，那么ta的庇护声请将会被IRCC裁定为不合资格转介至IRB，而ta将有可能被遣返至加拿大/美国
 > 
 > [了解更多关于STCA的内容（只有英文版）](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/safe-third-country-agreement.html#toc0)
@@ -37,32 +37,33 @@ IRPA第96条中对于公约难民的定义：
 <summary>IRPA第96条对于公约难民的定义</summary>
 
 # Convention refugee
+
 > 96 A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
->
+> 
 > (a) is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of each of those countries; or
->
+> 
 > (b) not having a country of nationality, is outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
 
 </details>
 
 <details>
-  
+
 <summary>IRPA第97条对于受保护人士的定义</summary>
 
 # Person in need of protection
 
 > 97 (1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
->
+> 
 >   (a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
->
+> 
 >   (b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
->
+> 
 >      (i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
->
+>     
 >      (ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
->
+>     
 >      (iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
->
+> 
 > (iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
 
 </details>
@@ -102,13 +103,13 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 > [!CAUTION]
 > Bill C-12 已于2025年12月11日于加拿大众议院通过，该法案其中一部分将会通过修改IRPA第101条的方式新增一条难民声请不合资格的情形。
->
+> 
 > 所有于2020年6月24日或之后第一次入境加拿大且在其第一次入境一年以后提出的难民声请将不合资格。
->
+> 
 > 这条新增的不合资格的情形会适用于（追溯到）Bill C-2一读当天（2025年5月26日）或之后提交的难民声请。也
 > 
 > 也就是说：如果你现在想提出一宗难民声请，但是你又是2020年6月24日或之后第一次入境加拿大且距离你那第一次入境加拿大已经满一年了，那么，你的申请可能会被IRCC/CBSA认定为不合资格。
->
+> 
 > [了解更多关于Bill C-12（只有英文及法文版）](https://www.parl.ca/legisinfo/en/bill/45-1/c-12) 
 
 如果说ta的声请最后被接受ta被认可为难民，那之后ta就能留在加拿大且ta有机会申请成为永久居民，乃至加入加拿大国籍。直至政府作出最终决定之前，难民申请人可以工作以及在学校就读，并有机会享有联邦临时医疗保險以及可以申请省的社会救助。
@@ -116,6 +117,7 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 但是，加拿大的签证审核非常严格，签证通过率较低。但一旦成功入境，就可以通过相应流程留下。
 
 作为中国公民的一般的寻求庇护者在没有签证的情况下是几乎不可能进入加拿大同时被接受成为难民的。
+
 * 空路：航空公司在领取登机牌时会查验购票人是否持有目的地有效的签证，若该登机人并未持有对应的签证航司将拒绝该人登机。
 * 陆路：必须经过美国；
   * 这种情况下有可能因为前文提及的STCA所以提出的难民声请被裁定为不合资格遣返至美国。
@@ -135,15 +137,17 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 1：在原籍国之外；
 
 2：还在国外的原因是因为恐惧回国遭到迫害;其中包括：
-  * 主观上恐惧回国，以及
-  * 该恐惧有客观依据（i.e.客观上站得住脚）
+
+* 主观上恐惧回国，以及
+* 该恐惧有客观依据（i.e.客观上站得住脚）
 
 3：该恐惧要基于其中《难民公约》中的一个或多个理由;其中包括：
-  * 种族;
-  * 信仰;
-  * 民族 和/或 国籍;
-  * 特定社会团体; 和/或
-  * 政治意见.
+
+* 种族;
+* 信仰;
+* 民族 和/或 国籍;
+* 特定社会团体; 和/或
+* 政治意见.
 
 4：申请人无法，或正是因为ta的恐惧，不愿寻求原籍国保护，**且**
 
@@ -167,15 +171,16 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 >  The meaning assigned to "particular social group" in the Act should take into account the general underlying themes of the defence of human rights and anti-discrimination that form the basis for the international refugee protection initiative.  
 > The tests proposed in Mayers, supra, Cheung, supra, and Matter of Acosta, supra, provide a good working rule to achieve this result.  
 > They identify three possible categories:
->
+> 
 > (1) groups defined by an innate or unchangeable characteristic;
->
+> 
 > (2) groups whose members voluntarily associate for reasons so fundamental to their human dignity that they should not be forced to forsake the association; and
 > 
 > (3) groups associated by a former voluntary status, unalterable due to its historical permanence.
->
+> 
 > **The first category would embrace individuals fearing persecution on such bases as gender**, linguistic background **and sexual orientation**, while the second would encompass, for example, human rights activists.  
 > The third branch is included more because of historical intentions, although it is also relevant to the anti-discrimination influences, in that one's past is an immutable part of the person.
+> 
 > - [Canada (Attorney General) v. Ward, [1993] 2 S.C.R. 689](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1023/index.do) (emphasis added)
 
 </details>
@@ -184,17 +189,17 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 > 法案中规定的“特定社会团体”应该考量这一点：正是难民保护背后所反映的对人权的保护以及反歧视的理念构成了难民保护的基础。
 > 在 Mayers一案, Cheung一案 以及Acosta一案中所提出的对于特定社会团体的判断标准能够很好地达到刚才提到的这两点。
->
+> 
 > 这个判断标准提出一个“特定社会团体”大致能被分为三大类：
->
+> 
 > （1）被一个固有的或不可变的特征所定义的团体
->
+> 
 > （2）团体成员自愿加入该团体所形成的团体，但团体形成的原因之于人的尊严是如此的重要，以至于ta们不能够被要求放弃在该团体的身份 以及
->
+> 
 > （3）团体成员先前自愿加入所形成的团体，但因为过去的事情使得就算是团体成员退了这个团体也没办法免受因为该团体身份所导致的迫害
->
+> 
 > 这个判断标准提出的第一个大类将能够包含害怕因为**性别**，会说的语言和/或**性取向**害怕被迫害的人，同时第二个大类将囊括像人权活动家一类的人。第三个大类所囊括进来的人尽管说更多的是因为历史原因被囊括进来的，但是反歧视的理念也与之相关：因为一个人改变不了ta的过去。
->
+> 
 > - [Canada (Attorney General) v. Ward, [1993] 2 S.C.R. 689](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1023/index.do) （重点加粗表示）
 
 但是，能不能作为声请理由跟声请充不充分是两码事，能作为声请理由**并不代表**仅仅是拥有LGBTQIA+的身份这一件事就足以使得一个寻求庇护者符合难民的定义，
@@ -213,11 +218,38 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 > 编者按：联邦法院对于“决定一个声请人是否是难民的人**能不能**因为申请人在第三国转机而又没做出难民声请这一点认为该声请人不是难民”的看法并不一致，声请人若是想避免“踏这趟浑水”，那么保守的选择则是直飞
 
 
+
+## 在等待难民决定期间在加拿大学习
+
+如果说声请人没有满18岁，那么ta无需学习许可就可以在学前班，小学，初中以及高中学习。如果说声请人在18岁或以上，或是声请人准备前往大专院校学习，那么声请人则需要向IRCC申请学习许可才能在加拿大学习。[^6] 
+
+**如果**说声请人在声请难民的时候**已经持有**加拿大的学习许可了（比如说凭学签入境加拿大后提出了难民声请），那么在提出声请之后ta们的**学习许可将继续有效**，直至学签到期，或是ta们的遣返令被执行。[^7]
+
+但是，在大部分省份的大专院校，**难民声请人算是国际学生，学费是按照国际学生的标准收取的**，一个学年的学费动辄几万加币起步。这么做是因为通常是各省政府（而非学校自己）规定谁到底算国际学生谁算本地学生，而大部分省份都规定本地学生仅限于“加拿大公民、永久居民以及**被认可**的难民” ；还在等待IRB/PRRA决定的难民声请人并没有被认可，要是声请人想要以本地生的学费入学的话，就得等到IRB/PRRA决定认可ta为难民的那一天，否则就得要按国际生的标准收取学费。[^8]
+
+**并且**，难民声请人作为国际学生也通常**不能**申请政府的助学金，至于大学内部的奖学金，国际学生也通常不合资格申请。[^8]
+
+对于国际生学费，目前唯二的例外是在多伦多的约克大学(YorkU)以及多伦多都市大学(TMU)：这两所大学各自提供“庇护学者项目”（Sanctuary Scholar Program)，**一个在加拿大且已经提了难民/PRRA的声请/申请的人**或者是**在加拿大且没有身份的人**（俗话说就是“黑在加拿大”）都可以申请这些项目，如果说申请获批了，那么这个人就可以以本地学生的学费就读,但是还是不能申请政府的助学金或是大部分大学内部的奖学金。
+
+[Sanctuary Scholars - Social Innovation - Toronto Metropolitan University (TMU)](https://www.torontomu.ca/social-innovation/sanctuaryscholars/)
+
+[Sanctuary Scholars’ Bridging Program - York University](https://www.yorku.ca/laps/bridging-programs/sanctuary-scholars/)
+
+> [!WARNING]
+> 
+> 一个还没来到加拿大的人**不可能**向加拿大当局寻求**庇护**。因此，一个还在原籍国/原籍国之外但没在加拿大的寻求庇护者不能够通过申请这两个项目从而使自己能够入境加拿大。
+
+> [!NOTE] 
+> 
+> 编者按：我们觉得加拿大各省这么干有其合理性，但我们同时也觉得这并非正义。
+
+
+
 ## 跨性别难民声请在加拿大（以及中国跨性别）
 
 本文还在扩充中，大部分的内容还未呈现，对此不便之处，敬请谅解。
 
-###
+### 
 
 ### 了解更多
 
@@ -243,3 +275,9 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 [^3]: *Velez v. Canada (Citizenship and Immigration)*, 2010 FC 923 (CanLII), <https://canlii.ca/t/2clvz>, retrieved on 2025-12-25 at para 28.
 [^4]: *Mendez v. Canada (Minister of Citizenship and Immigration)*, 2005 FC 75 (CanLII), <https://canlii.ca/t/1jt01>, retrieved on 2025-12-25 at para. 34-38
 [^5]: *Nel v. Canada (Citizenship and Immigration)*, 2014 FC 842 (CanLII), <https://canlii.ca/t/g8vv2>, retrieved on 2025-12-25, at para. 55
+
+[^6]:参见IRCC [给难民申请人的重要通知](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/information-refugee-claimants-zh.html)，第7部分。
+
+[^7]: [Processing in-Canada refugee claims: Special claimant types - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/refugee-protection/canada/processing-refugee-claims-special-claimant-types.html)
+
+[^8]: Villegas, Paloma & Aberman, Tanya. (2019). A Double Punishment: The Context of Postsecondary Access for Racialized Precarious Status Migrant Students in Toronto, Canada. Refuge. 35. 72-82. 10.7202/1060676ar. 

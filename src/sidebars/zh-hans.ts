@@ -8,9 +8,19 @@ export default [
 	},
 	{
 		text: '北美',
+		items: [ { text: '北美总览', link: '/zh-hans/na/na-overview/' } ]
+	},
+	{ 
+		text: '加拿大',
 		items: [
-			{ text: '北美总览', link: '/zh-hans/na/na-overview/' },
-			{ text: '加拿大', link: '/zh-hans/na/Canada/' }
+			{ text: '加拿大总览', link:'/zh-hans/na/Canada/' },
+			{ text: 'IRB听证会', link:'/zh-hans/na/canada-irb-hearing/' },
+			{ text: '法律援助', link: '/zh-hans/na/Canada-legal-aid/' },
+			{ text: '加拿大难民流程图', link: '/zh-hans/na/canada-refugee-procedure-flowchart/' },
+			{ text: '资格面谈', link: 'zh-hans/na/Eligibility-Interview-Notes/' },
+			{ text: '迫害', link: 'zh-hans/na/persecution/' },
+			{ text: '有充分理由地恐惧迫害', link: 'zh-hans/na/well-founded-fear/' },
+			{ text: '有充分理由地恐惧迫害：主观恐惧', link: 'zh-hans/na/well-founded-fear-subjective-fear/' }
 		]
 	},
 	{
