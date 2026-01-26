@@ -20,7 +20,10 @@ export default [
 			{ text: '资格面谈', link: '/zh-hans/na/Eligibility-Interview-Notes/' },
 			{ text: '迫害', link: '/zh-hans/na/persecution/' },
 			{ text: '有充分理由地恐惧迫害', link: '/zh-hans/na/well-founded-fear/' },
-			{ text: '有充分理由地恐惧迫害：主观恐惧', link: '/zh-hans/na/well-founded-fear-subjective-fear/' }
+			{ text: '有充分理由地恐惧迫害：主观恐惧', link: '/zh-hans/na/well-founded-fear-subjective-fear/' },
+			{ text: '国家保护', link: '/zh-hans/na/state-protection/' },
+			{ text: '国内避难选择', link: '/zh-hans/na/IFA/' },
+			{ text: '司法复核', link: '/zh-hans/na/judicial-review/' }
 		]
 	},
 	{
